@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on ...
 
-📫 How to reach me @shraddha0240@gmail.com
+📫 reach me @ shraddha0240@gmail.com
 
 <!---
 Shraddha0240/Shraddha0240 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
