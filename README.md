@@ -1,7 +1,11 @@
 👋 Hi, I’m Shraddha
+
 👀 I’m interested in Data Science
+
 🌱 I’m currently learning Deep learning, NLP, Computer vision
+
 💞️ I’m looking to collaborate on ...
+
 📫 How to reach me @shraddha0240@gmail.com
 
 <!---
